@@ -1,4 +1,4 @@
-<img width="1440" alt="Στιγμιότυπο οθόνης 2024-08-25, 2 41 56 μμ" src="https://github.com/user-attachments/assets/44bda2d9-8686-4249-b93d-1931a47a5575">
+
 Subject: Submission of Image Analysis Project Documentation
 
 I have prepared detailed documentation and a Presentation that thoroughly describes each component of our project. This documentation will guide you in setting up and running the program efficiently.
