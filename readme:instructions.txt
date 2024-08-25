@@ -1,11 +1,7 @@
 
 Subject: Submission of Image Analysis Project Documentation
 
-Dear Tomislav Petkovic,
-
-I hope this message finds you well. Due to the substantial size of the training dataset for our image analysis project, which includes numerous images and amounts to approximately 2GB, I am unable to send the actual code files via email.
-
-Instead, I have prepared detailed documentation and a Presentation that thoroughly describes each component of our project. This documentation will guide you in setting up and running the program efficiently.
+I have prepared detailed documentation and a Presentation that thoroughly describes each component of our project. This documentation will guide you in setting up and running the program efficiently.
 
 To run the program, please follow these steps:
 
